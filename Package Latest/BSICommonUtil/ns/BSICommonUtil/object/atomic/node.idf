@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">BSICommonUtil.object.atomic</value>
+  <value name="node_pkg">BSICommonUtil</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">c3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKGF0b21pYy5jbGFzcy5nZXRO
+YW1lKCkpOwpwdWJsaWMgc3RhdGljIFN0cmluZyBqc29uRG9jVG9Kc29uU3RyaW5nKElEYXRhIGlu
+cHV0RG9jLCBTdHJpbmcgcHJldHR5UHJpbnQpewoJSURhdGEgaW5wdXQgPSBJRGF0YUZhY3Rvcnku
+Y3JlYXRlKCk7CglJRGF0YUN1cnNvciBpbnB1dEN1cnNvciA9IGlucHV0LmdldEN1cnNvcigpOwoK
+CS8vIGRvY3VtZW50CglJRGF0YVV0aWwucHV0KCBpbnB1dEN1cnNvciwgImRvY3VtZW50IiwgaW5w
+dXREb2MgKTsKCUlEYXRhVXRpbC5wdXQoIGlucHV0Q3Vyc29yLCAicHJldHR5UHJpbnQiLCBwcmV0
+dHlQcmludCk7CglpbnB1dEN1cnNvci5kZXN0cm95KCk7CgoJLy8gb3V0cHV0CglJRGF0YSAJb3V0
+cHV0ID0gSURhdGFGYWN0b3J5LmNyZWF0ZSgpOwoJdHJ5IHsKCQlvdXRwdXQgPSBTZXJ2aWNlLmRv
+SW52b2tlKCAicHViLmpzb24iLCAiZG9jdW1lbnRUb0pTT05TdHJpbmciLCBpbnB1dCApOwoJfSBj
+YXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJsb2Nr
+CgkJbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCBlLnRvU3RyaW5nKCkpOwoJfSAKCUlEYXRhQ3Vyc29y
+IG91dHB1dEN1cnNvciA9IG91dHB1dC5nZXRDdXJzb3IoKTsKCVN0cmluZyBwYXlsb2FkU3RyaW5n
+ID0gSURhdGFVdGlsLmdldFN0cmluZyggb3V0cHV0Q3Vyc29yLCAianNvblN0cmluZyIgKTsKCW91
+dHB1dEN1cnNvci5kZXN0cm95KCk7CglyZXR1cm4gcGF5bG9hZFN0cmluZzsKfQoKcHVibGljIHN0
+YXRpYyBTdHJpbmcgeG1sRG9jVG9Kc29uU3RyaW5nKElEYXRhIGlucHV0RG9jKXsKCUlEYXRhIGlu
+cHV0ID0gSURhdGFGYWN0b3J5LmNyZWF0ZSgpOwoJSURhdGFDdXJzb3IgaW5wdXRDdXJzb3IgPSBp
+bnB1dC5nZXRDdXJzb3IoKTsKCgkvLyBkb2N1bWVudAoJSURhdGFVdGlsLnB1dCggaW5wdXRDdXJz
+b3IsICJkb2N1bWVudCIsIGlucHV0RG9jICk7CglpbnB1dEN1cnNvci5kZXN0cm95KCk7CgoJLy8g
+b3V0cHV0CglJRGF0YSAJb3V0cHV0ID0gSURhdGFGYWN0b3J5LmNyZWF0ZSgpOwoJdHJ5IHsKCQlv
+dXRwdXQgPSBTZXJ2aWNlLmRvSW52b2tlKCAicHViLnhtbCIsICJkb2N1bWVudFRvWE1MU3RyaW5n
+IiwgaW5wdXQgKTsKCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJLy8gVE9ETyBBdXRvLWdlbmVy
+YXRlZCBjYXRjaCBibG9jawoJCWxvZ2dlci5sb2coTGV2ZWwuSU5GTywgZS50b1N0cmluZygpKTsK
+CX0gCglJRGF0YUN1cnNvciBvdXRwdXRDdXJzb3IgPSBvdXRwdXQuZ2V0Q3Vyc29yKCk7CglTdHJp
+bmcgcGF5bG9hZFN0cmluZyA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIG91dHB1dEN1cnNvciwgInht
+bGRhdGEiICk7CglvdXRwdXRDdXJzb3IuZGVzdHJveSgpOwoJcmV0dXJuIHBheWxvYWRTdHJpbmc7
+Cn0=</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.logging.Level</value>
+    <value>java.util.logging.Logger</value>
+  </array>
+</Values>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">customNumericFormat_1</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgaWRjID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpTdHJpbmcgbnVtMSA9IElE
+YXRhVXRpbC5nZXRTdHJpbmcoaWRjLCAibnVtMSIpOw0KU3RyaW5nIGZpcnN0ID0gIiI7DQpTdHJp
+bmcgbGFzdDIgPSAiIjsNClN0cmluZyBvdXRwdXQgPSAiIjsNCg0KZmlyc3QgPSBudW0xLnN1YnN0
+cmluZygwLCBudW0xLmxlbmd0aCgpIC0gMik7DQpsYXN0MiA9IG51bTEuc3Vic3RyaW5nKG51bTEu
+bGVuZ3RoKCkgLSAyKTsNCkRvdWJsZSBhID0gRG91YmxlLnBhcnNlRG91YmxlKGZpcnN0KTsNCk51
+bWJlckZvcm1hdCBmb3JtYXR0ZXIgPSBuZXcgRGVjaW1hbEZvcm1hdCgiIywjIyMiKTsgDQpTdHJp
+bmcgYiA9IGZvcm1hdHRlci5mb3JtYXQoYSk7DQpvdXRwdXQgPSAiUnAuICIgKyBiICsgIi4iICsg
+bGFzdDI7DQoNCklEYXRhVXRpbC5wdXQoaWRjLCAicmVzdWx0Iiwgb3V0cHV0KTsNCg0KaWRjLmRl
+c3Ryb3koKTs=</value>
+</Values>

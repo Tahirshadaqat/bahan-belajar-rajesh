@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">BSICommonUtil.amount</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGNvbnZlcnRBbW91bnQoU3RyaW5nIGFtb3VudCkgewoJU3Ry
+aW5nIG5ld0Ftb3VudCA9IGFtb3VudC5yZXBsYWNlKCIsIiwgIiIpOyAvLyBjYW4gY29udGFpbnMg
+LjAwIG9yIG5vdAoJCgkvL2NvbnZlcnQgdG8gYmlnIGRlY2ltYWwKCUJpZ0RlY2ltYWwgZGVjID0g
+bmV3IEJpZ0RlY2ltYWwobmV3QW1vdW50KTsKCQoJLy9wcmVwYXJlIGRlY2ltYWwgZm9ybWF0dGVy
+CglEZWNpbWFsRm9ybWF0IGRmID0gbmV3IERlY2ltYWxGb3JtYXQoIjAuMDAiKTsKCWRmLnNldFJv
+dW5kaW5nTW9kZShSb3VuZGluZ01vZGUuRE9XTik7CgkgCgkvL2Zvcm1hdAoJU3RyaW5nIHZhbHVl
+PSBkZi5mb3JtYXQoZGVjKTsKCXJldHVybiB2YWx1ZTsKfQ==</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.math.RoundingMode</value>
+    <value>java.text.DecimalFormat</value>
+    <value>com.ibm.icu.math.BigDecimal</value>
+  </array>
+</Values>

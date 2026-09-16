@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">constructWmDocument</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFNYXAgcGw9bmV3IElEYXRhTWFwKHBpcGVsaW5lKTsNCklEYXRhIGRvY0NvbnRlbnQ9bmV3
+IElEYXRhRmFjdG9yeSgpLmNyZWF0ZSgpOwkJDQpJRGF0YU1hcCBkb2NDb250ZW50TWFwPW5ldyBJ
+RGF0YU1hcChkb2NDb250ZW50KTsNCiAgDQpTdHJpbmdbXSBrZXlTdHJpbmc9cGwuZ2V0QXNTdHJp
+bmdBcnJheSgia2V5U3RyaW5nIik7DQpTdHJpbmdbXSB2YWx1ZVN0cmluZz1wbC5nZXRBc1N0cmlu
+Z0FycmF5KCJ2YWx1ZVN0cmluZyIpOw0KDQpmb3IoaW50IGk9MDtpPGtleVN0cmluZy5sZW5ndGg7
+aSsrKXsNCglkb2NDb250ZW50TWFwLnB1dChrZXlTdHJpbmdbaV0sIHZhbHVlU3RyaW5nW2ldKTsN
+Cn0NCiAJCQkJDQpwbC5wdXQoImRvY3VtZW50Q29udGVudCIsIGRvY0NvbnRlbnQpOw0KCQkJCQ0K
+CQk=</value>
+</Values>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">decryptAES128</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgaWRjID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpTdHJpbmcgZW5jcnlwdGVk
+ID0gSURhdGFVdGlsLmdldFN0cmluZyhpZGMsICJlbmNyeXB0ZWQiKTsNCg0KdHJ5IHsNCglTZWNy
+ZXRLZXlTcGVjIHNza2V5ID0gbmV3IFNlY3JldEtleVNwZWMoa2V5LmdldEJ5dGVzKCksICJBRVMi
+KTsNCglDaXBoZXIgYyA9IENpcGhlci5nZXRJbnN0YW5jZSgiQUVTL0VDQi9QS0NTNVBhZGRpbmci
+KTsNCgljLmluaXQoQ2lwaGVyLkRFQ1JZUFRfTU9ERSwgc3NrZXkpOw0KCQ0KCWJ5dGVbXSBkZWNy
+eXB0ZWRCeXRlID0gYy5kb0ZpbmFsKEhleC5kZWNvZGVIZXgoZW5jcnlwdGVkKSk7DQoJU3RyaW5n
+IHN0cmluZyA9IG5ldyBTdHJpbmcoZGVjcnlwdGVkQnl0ZSk7DQoJSURhdGFVdGlsLnB1dChpZGMs
+ICJzdHJpbmciLCBzdHJpbmcpOw0KfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsNCgllLnByaW50U3Rh
+Y2tUcmFjZSgpOw0KfQ0KDQppZGMuZGVzdHJveSgpOw==</value>
+</Values>

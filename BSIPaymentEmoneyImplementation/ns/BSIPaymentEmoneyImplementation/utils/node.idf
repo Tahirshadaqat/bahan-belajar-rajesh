@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgRmlsZUlucHV0U3RyZWFtIGZpcyA9IG51bGw7CgpwdWJsaWMgc3RhdGlj
+IFN0cmluZyBzaWduKFN0cmluZyBrZXlzdG9yZSwgU3RyaW5nIGtleXN0b3JlUGFzc3dvcmQsIFN0
+cmluZyBrZXlBbGlhcywgU3RyaW5nIGtleVBhc3N3b3JkLCBTdHJpbmcgYWxnb3JpdGhtLCBTdHJp
+bmcgbWVzc2FnZSkgewoJCglTdHJpbmcgc2lnbmF0dXJlID0gbnVsbDsKLy8JCVN0cmluZyBrZXlz
+dG9yZUZpbGUgPSAiL2hvbWUvdXNlcmFwaS9zcmMvYm1yaS9ic2kuamltcG9ydCBqYXZheC5jcnlw
+dG8uTWFjOwoJCgl0cnkgewoJCUtleVN0b3JlIGtzID0gS2V5U3RvcmUuZ2V0SW5zdGFuY2UoS2V5
+U3RvcmUuZ2V0RGVmYXVsdFR5cGUoKSk7IAoJCSBmaXMgPSBuZXcgRmlsZUlucHV0U3RyZWFtKGtl
+eXN0b3JlKTsgCgkJIGtzLmxvYWQoZmlzLGtleXN0b3JlUGFzc3dvcmQudG9DaGFyQXJyYXkoKSk7
+IAoJCSBLZXlTdG9yZS5Qcml2YXRlS2V5RW50cnkgcGtFbnRyeSA9IChLZXlTdG9yZS5Qcml2YXRl
+S2V5RW50cnkpa3MuZ2V0RW50cnkgKGtleUFsaWFzLCBuZXcgS2V5U3RvcmUuUGFzc3dvcmRQcm90
+ZWN0aW9uKGtleVBhc3N3b3JkLnRvQ2hhckFycmF5ICgpKSk7CgkJIFJTQVByaXZhdGVLZXkgcHZL
+ZXkgPSAoUlNBUHJpdmF0ZUtleSlwa0VudHJ5LmdldFByaXZhdGVLZXkoKTsgCgkJIFNpZ25hdHVy
+ZSBzaWduID0gU2lnbmF0dXJlLmdldEluc3RhbmNlKGFsZ29yaXRobSk7CgkJIHNpZ24uaW5pdFNp
+Z24ocHZLZXkpOwoJCSBieXRlW10gYnl0ZU1lc3NhZ2UgPSBtZXNzYWdlLmdldEJ5dGVzKCk7CgkJ
+IHNpZ24udXBkYXRlKGJ5dGVNZXNzYWdlLCAwLCBieXRlTWVzc2FnZS5sZW5ndGgpOyAKCQkgYnl0
+ZVtdIGJ5dGVTaWduYXR1cmUgPSBzaWduLnNpZ24oKTsKCQkgc2lnbmF0dXJlID0gbmV3IFN0cmlu
+ZyhCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZShieXRlU2lnbmF0dXJlKSk7Cgl9IGNhdGNoKEV4
+Y2VwdGlvbiBleCkgewoJCWV4LnByaW50U3RhY2tUcmFjZSgpOyAKCX0KCQoJcmV0dXJuIHNpZ25h
+dHVyZTsKfQ==</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.text.ParseException</value>
+    <value>java.text.SimpleDateFormat</value>
+    <value>java.time.LocalDateTime</value>
+    <value>java.time.format.DateTimeFormatter</value>
+    <value>java.time.format.FormatStyle</value>
+    <value>java.util.Base64</value>
+    <value>java.io.FileInputStream</value>
+    <value>java.security.KeyStore</value>
+    <value>java.security.Signature</value>
+    <value>java.security.MessageDigest</value>
+    <value>java.security.interfaces.RSAPrivateKey</value>
+    <value>java.nio.charset.StandardCharsets</value>
+    <value>javax.crypto.Mac</value>
+    <value>javax.crypto.spec.SecretKeySpec</value>
+    <value>java.math.BigInteger</value>
+    <value>org.apache.commons.codec.digest.DigestUtils</value>
+    <value>org.apache.commons.codec.digest.HmacAlgorithms</value>
+    <value>org.apache.commons.codec.digest.HmacUtils</value>
+  </array>
+</Values>

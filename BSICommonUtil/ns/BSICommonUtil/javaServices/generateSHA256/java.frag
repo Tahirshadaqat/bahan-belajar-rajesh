@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">generateSHA256</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCXN0cmluZ1RvU2lnbiA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVs
+aW5lQ3Vyc29yLCAic3RyaW5nVG9TaWduIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0K
+U3RyaW5nIHZhbHVlID0gIiI7ICANCnRyeXsNCgl2YWx1ZSA9IERpZ2VzdFV0aWxzLnNoYTI1Nkhl
+eChzdHJpbmdUb1NpZ24pOw0KfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7DQp9DQoNCklEYXRhQ3Vy
+c29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5w
+dXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJ2YWx1ZSIsIHZhbHVlICk7DQpwaXBlbGluZUN1cnNvcl8x
+LmRlc3Ryb3koKTsNCg0KCQ==</value>
+</Values>

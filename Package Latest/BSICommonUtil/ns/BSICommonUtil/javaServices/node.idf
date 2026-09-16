@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">BSICommonUtil.javaServices</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHVibGljIHN0YXRpYyBTdHJpbmcgdW5QYWRMZWZ0KFN0cmluZyBzLCBjaGFyIGMpIHsKCWludCBm
+aWxsID0gMDsKCWludCBlbmQgPSBzLmxlbmd0aCgpOwoJaWYgKGVuZCA9PSAwKSB7CgkJcmV0dXJu
+IHM7Cgl9Cgl3aGlsZSAoKGZpbGwgPCBlbmQpICYmIChzLmNoYXJBdChmaWxsKSA9PSBjKSkgewoJ
+CWZpbGwrKzsKCX0KCXJldHVybiBmaWxsIDwgZW5kID8gcy5zdWJzdHJpbmcoZmlsbCwgZW5kKSA6
+IHMuc3Vic3RyaW5nKGZpbGwgLSAxLCBlbmQpOwp9</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.ibm.icu.impl.duration.TimeUnit</value>
+    <value>com.wm.util.DebugOptions</value>
+    <value>com.softwareag.util.IDataArray</value>
+    <value>org.apache.commons.codec.digest.DigestUtils</value>
+    <value>org.apache.commons.codec.digest.HmacUtils</value>
+    <value>org.apache.commons.codec.digest.HmacAlgorithms</value>
+  </array>
+</Values>

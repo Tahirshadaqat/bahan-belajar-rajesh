@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">BSISwitchingSmartVista.utils.java</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHVibGljIHN0YXRpYyBmaW5hbCBpbnQgc3ZScm5faW5jcmVtZW50X2J5ID0gMTAwMDsKcHVibGlj
+IHN0YXRpYyBmaW5hbCBOU05hbWUgbnNTZXFTdlJyblRyYWNlTnVtYmVyID0gTlNOYW1lLmNyZWF0
+ZSgiQlNJU3dpdGNoaW5nU21hcnRWaXN0YS5hZGFwdGVyIiwgInN2X3Jybl9uZXh0dmFsIik7CnB1
+YmxpYyBzdGF0aWMgZmluYWwgT2JqZWN0IGxvY2tTdlJyblRyYWNlTnVtYmVyID0gbmV3IE9iamVj
+dCgpOwpwdWJsaWMgc3RhdGljIHZvbGF0aWxlIGludCBzdlJyblRyYWNlTnVtYmVyID0gMDsKcHVi
+bGljIHN0YXRpYyB2b2xhdGlsZSBpbnQgbWF4U2VxU3ZScm5UcmFjZU51bWJlciA9IC0xOw==</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.ArrayList</value>
+    <value>java.util.List</value>
+    <value>com.wm.lang.ns.NSName</value>
+  </array>
+</Values>

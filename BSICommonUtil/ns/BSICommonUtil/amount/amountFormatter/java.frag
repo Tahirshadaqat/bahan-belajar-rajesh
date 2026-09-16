@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">amountFormatter</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgaWRjID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoNClN0cmluZyBhbW91bnRJ
+bnB1dCA9IElEYXRhVXRpbC5nZXRTdHJpbmcoaWRjLCAiYW1vdW50SW5wdXQiKTsNClN0cmluZyB2
+YWx1ZSA9IG51bGw7DQppZiAoYW1vdW50SW5wdXQgIT0gbnVsbCkgew0KCWlmIChhbW91bnRJbnB1
+dC5zdGFydHNXaXRoKCItIikpIHsNCgkJU3RyaW5nIGNhbGNBbW91bnQgPSBhbW91bnRJbnB1dC5z
+dWJzdHJpbmcoMSk7DQoJCXZhbHVlID0gIi0iK2NvbnZlcnRBbW91bnQoY2FsY0Ftb3VudCk7DQoJ
+fQ0KCWVsc2UgaWYgKGFtb3VudElucHV0LmVuZHNXaXRoKCItIikpIHsNCgkJU3RyaW5nIGNhbGNB
+bW91bnQgPSBhbW91bnRJbnB1dC5zdWJzdHJpbmcoMCwgYW1vdW50SW5wdXQubGVuZ3RoKCktMSk7
+DQoJCXZhbHVlID0gY29udmVydEFtb3VudChjYWxjQW1vdW50KSsiLSI7DQoJfQ0KCWVsc2Ugew0K
+CQl2YWx1ZSA9IGNvbnZlcnRBbW91bnQoYW1vdW50SW5wdXQpOw0KCX0NCglJRGF0YVV0aWwucHV0
+KGlkYywgInZhbHVlIiwgdmFsdWUpOw0KfQ0KDQppZGMuZGVzdHJveSgpOw==</value>
+</Values>

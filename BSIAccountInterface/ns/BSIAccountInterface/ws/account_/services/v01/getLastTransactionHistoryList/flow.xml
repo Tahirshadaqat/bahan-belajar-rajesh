@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FLOW VERSION="3.0" CLEANUP="true">
+  <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE TIMEOUT="" SERVICE="BSIAccountInterface.services.v01:getLastTransactionHistoryList" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<MAP MODE="INPUT">
+</MAP>
+</INVOKE>
+
+<SEQUENCE TIMEOUT="" EXIT-ON="FAILURE" DISABLED="true">
+  <COMMENT>to be deleted simulator</COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE TIMEOUT="" SERVICE="pub.flow:setResponse2" VALIDATE-IN="$none" VALIDATE-OUT="$none" DISABLED="true">
+  <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<MAP MODE="INPUT">
+  <MAPTARGET>
+
+<Values version="2.0">
+  <record name="xml" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="is_public">false</value>
+    <value name="field_name">setResponse2Input</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">responseString</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">responseBytes</value>
+        <value name="field_type">object</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">responseStream</value>
+        <value name="field_type">object</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <record name="node_hints" javaclass="com.wm.util.Values">
+          <value name="field_usereditable">true</value>
+        </record>
+        <value name="is_public">false</value>
+        <value name="field_name">responseStreamTransferEncoding</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <array name="field_options" type="value" depth="1">
+          <value>chunked</value>
+        </array>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <record name="node_hints" javaclass="com.wm.util.Values">
+          <value name="field_usereditable">true</value>
+        </record>
+        <value name="is_public">false</value>
+        <value name="field_name">contentType</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <array name="field_options" type="value" depth="1">
+          <value>text/xml</value>
+          <value>text/html</value>
+        </array>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">encoding</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+    </array>
+    <value name="modifiable">true</value>
+  </record>
+</Values>
+</MAPTARGET>
+  <MAPSOURCE>
+
+<Values version="2.0">
+  <record name="xml" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="is_public">false</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+    </array>
+    <value name="modifiable">true</value>
+  </record>
+</Values>
+</MAPSOURCE>
+
+  <!-- nodes -->
+
+<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/responseString;1;0">
+  <DATA ENCODING="XMLValues" I18N="true">
+
+<Values version="2.0">
+  <value name="xml">{
+	"responseCode": "00",
+	"responseMessage": "Success",
+	"errorCode": "TWS-Success-200",
+	"errorMessage": "Success",
+	"errorCat": "Success",
+	"referenceNo": "20240110085621274",
+	"partnerReferenceNo": "20240110085621030013915928",
+	"accountNo": "7203259985",
+	"detailData": [
+		{
+			"dateTime": "2023-12-27",
+			"txnTime": "14:03:00",
+			"tranTitle": "TRF Dari - Natasya Kaliza Fitri",
+			"amount": "96000.00",
+			"reff": "FT23361R8FG0"
+		},
+		{
+			"dateTime": "2023-12-27",
+			"txnTime": "14:25:00",
+			"tranTitle": "MB BPI 6059000002566328",
+			"amount": "-5000.00",
+			"reff": "FT23361BS10S"
+		},
+		{
+			"dateTime": "2023-12-27",
+			"txnTime": "14:26:00",
+			"tranTitle": "Infaq-Infaq - TRF Ke - BSI MASLAHAT - BANK INFAQ",
+			"amount": "-1.00",
+			"reff": "FT23361MJVVX"
+		},
+		{
+			"dateTime": "2023-12-27",
+			"txnTime": "15:26:00",
+			"tranTitle": "MB BPI 612946630269056",
+			"amount": "-13250.00",
+			"reff": "FT2336127F5C"
+		},
+		{
+			"dateTime": "2023-12-27",
+			"txnTime": "15:26:00",
+			"tranTitle": "Infaq-Infaq - TRF Ke - BSI MASLAHAT - BANK INFAQ",
+			"amount": "-1.00",
+			"reff": "FT23361F3K2R"
+		},
+		{
+			"dateTime": "2023-12-28",
+			"txnTime": "10:14:00",
+			"tranTitle": "test buka rek haji - TRF Dari - 451 - QISTY ASSYIFA IRHAMAH",
+			"amount": "97000.00",
+			"reff": "FT23362R894Q"
+		},
+		{
+			"dateTime": "2023-12-28",
+			"txnTime": "10:15:00",
+			"tranTitle": "Deposit Tambah Rekening - TRF Ke - HANIFAH PRITASARI",
+			"amount": "-100000.00",
+			"reff": "FT233621L9PR"
+		},
+		{
+			"dateTime": "2023-12-28",
+			"txnTime": "10:24:00",
+			"tranTitle": "buka tabungan haji qisty - TRF Dari - 451 - Yunita Sugiarto",
+			"amount": "3000.00",
+			"reff": "FT23362S2G2F"
+		},
+		{
+			"dateTime": "2023-12-28",
+			"txnTime": "14:12:00",
+			"tranTitle": "pembukaan emas - TRF Dari - 451 - Yunita Sugiarto",
+			"amount": "106000.00",
+			"reff": "FT23362VV5PK"
+		},
+		{
+			"dateTime": "2023-12-28",
+			"txnTime": "17:30:00",
+			"tranTitle": "BeliEmas 8844370363 0.1000 g Stockid rrn:7E7C1CTVPMYG-001833181654",
+			"amount": "-106000.00",
+			"reff": "FT233621MQ3K"
+		},
+		{
+			"dateTime": "2023-12-28",
+			"txnTime": "17:31:00",
+			"tranTitle": "Infaq-Infaq - TRF Ke - BSI MASLAHAT - BANK INFAQ",
+			"amount": "-1.00",
+			"reff": "FT23362DG5T2"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "04:04:00",
+			"tranTitle": "Biaya Pemindahbukuan e-Banking",
+			"amount": "-2378.38",
+			"reff": "FT233636RCD9"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "04:04:00",
+			"tranTitle": "Biaya Titipan Emas : 0.1 g Rek.Emas : 8844370363-2023-12-29 rrn:7E7C1DWZW6V8-7E7C1DWZW6V8",
+			"amount": "-21621.62",
+			"reff": "FT233636RCD9"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "09:45:00",
+			"tranTitle": "Gaji Desember 2023",
+			"amount": "7865600.00",
+			"reff": "FT23363RBVHN"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "10:08:00",
+			"tranTitle": "bolen yuhu - TRF Dari - 451 - QISTY ASSYIFA IRHAMAH",
+			"amount": "44500.00",
+			"reff": "FT23363GJ75P"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "10:12:00",
+			"tranTitle": "Biaya Pemindahbukuan e-Banking",
+			"amount": "-2500.00",
+			"reff": "FT23363TX7ML"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "10:12:00",
+			"tranTitle": "BIFAST - TRF Ke - Bank BCA - HANIFAH PRITASARI",
+			"amount": "-7900000.00",
+			"reff": "FT23363TX7ML"
+		},
+		{
+			"dateTime": "2023-12-29",
+			"txnTime": "14:29:00",
+			"tranTitle": "TRF Dari - AGASI PUTRA SEPTIYANTO",
+			"amount": "1.00",
+			"reff": "FT2336396QHR"
+		},
+		{
+			"dateTime": "2024-01-09",
+			"txnTime": "18:34:00",
+			"tranTitle": "topup haji - TRF Ke - HANIFAH PRITASARI",
+			"amount": "-5000.00",
+			"reff": "FT24009MQZX1"
+		},
+		{
+			"dateTime": "2024-01-09",
+			"txnTime": "18:36:00",
+			"tranTitle": "Infaq-Infaq - TRF Ke - BSI MASLAHAT - BANK INFAQ",
+			"amount": "-1000.00",
+			"reff": "FT24009D0SYK"
+		}
+	],
+	"additionalInfo": {
+		"deviceId": "eLtjNowrQvK5uuu_S7zt0K",
+		"channel": "SUPERAPP"
+	}
+}</value>
+  <record name="type" javaclass="com.wm.util.Values">
+    <value name="node_type">field</value>
+    <value name="node_subtype">unknown</value>
+    <value name="is_public">false</value>
+    <value name="field_name">responseString</value>
+    <value name="field_type">string</value>
+    <value name="field_dim">0</value>
+    <value name="field_opt">true</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+  </record>
+</Values>
+</DATA>
+</MAPSET>
+</MAP>
+</INVOKE>
+</SEQUENCE>
+</FLOW>

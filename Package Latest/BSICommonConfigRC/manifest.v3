@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <record name="startup_services" javaclass="com.wm.util.Values">
+    <null name="BSICommonConfigRC.init:populateConfigRC"/>
+  </record>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <value name="listACL">Default</value>
+  <value name="webappLoad">yes</value>
+  <value name="name">BSICommonConfigRC</value>
+  <value name="build"></value>
+  <value name="description"></value>
+  <value name="time">2023-06-19 16:16:43 WIB</value>
+  <value name="jvm_version">11.0.12</value>
+  <value name="publisher">localhost</value>
+  <value name="patch_nums"></value>
+</Values>

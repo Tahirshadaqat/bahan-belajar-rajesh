@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">objectToString</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgaWRjID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpTdHJpbmcgc3RyaW5nID0g
+IiI7DQpPYmplY3Qgb2JqZWN0ID0gSURhdGFVdGlsLmdldChpZGMsICJvYmplY3QiKTsNClN0cmlu
+ZyB0eXBlID0gSURhdGFVdGlsLmdldFN0cmluZyhpZGMsInR5cGUiKTsNCmlmIChvYmplY3QgIT0g
+bnVsbCl7DQoJaWYgKG9iamVjdCBpbnN0YW5jZW9mIElEYXRhKXsNCgkJaWYodHlwZSAhPSBudWxs
+ICYmIHR5cGUuZXF1YWxzKCJ4bWwiKSkNCgkJCXN0cmluZyA9IHhtbERvY1RvSnNvblN0cmluZygo
+SURhdGEpb2JqZWN0KTsNCgkJZWxzZQ0KCQkJc3RyaW5nID0ganNvbkRvY1RvSnNvblN0cmluZygo
+SURhdGEpb2JqZWN0LCAiZmFsc2UiKTsNCgl9IGVsc2UgaWYob2JqZWN0IGluc3RhbmNlb2YgU3Ry
+aW5nKXsNCgkJc3RyaW5nID0gKG9iamVjdC50b1N0cmluZygpKS5yZXBsYWNlKCJcbiIsICIiKS5y
+ZXBsYWNlKCJcciIsICIiKTsNCgl9DQp9CQkJDQpJRGF0YVV0aWwucHV0KGlkYywgInN0cmluZyIs
+IHN0cmluZyk7DQppZGMuZGVzdHJveSgpOw==</value>
+</Values>

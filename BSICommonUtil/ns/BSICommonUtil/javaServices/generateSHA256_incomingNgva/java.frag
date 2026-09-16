@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">generateSHA256_incomingNgva</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWNoYW5uZWxJZCA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5l
+Q3Vyc29yLCAiY2hhbm5lbElkIiApOw0KCVN0cmluZwlhcGlLZXkgPSBJRGF0YVV0aWwuZ2V0U3Ry
+aW5nKCBwaXBlbGluZUN1cnNvciwgImFwaUtleSIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3ko
+KTsNClN0cmluZyBzdHJpbmdUb1NpZ24gPSBjaGFubmVsSWQrYXBpS2V5Ow0KU3RyaW5nIHZhbHVl
+ID0gIiI7ICANCnRyeXsNCgl2YWx1ZSA9IERpZ2VzdFV0aWxzLnNoYTI1NkhleChzdHJpbmdUb1Np
+Z24pOw0KfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7DQoJdmFsdWUgPSBleC5nZXRNZXNzYWdlKCku
+dG9TdHJpbmcoKTsNCn0NCg0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5l
+LmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJzb3JfMSwgInZhbHVlIiwg
+dmFsdWUgKTsNCnBpcGVsaW5lQ3Vyc29yXzEuZGVzdHJveSgpOw0KDQoJ</value>
+</Values>

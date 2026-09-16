@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">currencyAmountFormatter</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgaWRjID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoNClN0cmluZyBhbW91bnRJ
+bnB1dCA9IElEYXRhVXRpbC5nZXRTdHJpbmcoaWRjLCAiYW1vdW50SW5wdXQiKTsNClN0cmluZyB2
+YWx1ZSA9IG51bGw7DQppZiAoYW1vdW50SW5wdXQgIT0gbnVsbCkgew0KCVN0cmluZyBjdXJyZW5j
+eSA9IGFtb3VudElucHV0LnN1YnN0cmluZygwLCAzKTsNCglTdHJpbmcgY2FsY0Ftb3VudCA9IGFt
+b3VudElucHV0LnN1YnN0cmluZygzKTsNCgl2YWx1ZSA9IGNvbnZlcnRBbW91bnQoY2FsY0Ftb3Vu
+dCk7DQoJSURhdGFVdGlsLnB1dChpZGMsICJjdXJyZW5jeSIsIGN1cnJlbmN5KTsNCglJRGF0YVV0
+aWwucHV0KGlkYywgInZhbHVlIiwgdmFsdWUpOw0KfQ0KDQppZGMuZGVzdHJveSgpOw==</value>
+</Values>
